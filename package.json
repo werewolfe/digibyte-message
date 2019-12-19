@@ -30,7 +30,7 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "digibyte": "^0.15.6"
+    "digibyte": "git://github.com/werewolfe/digibyte-lib.git"
   },
   "deprecated": false,
   "description": "Digibyte Messages for DigiByte.js",
